@@ -32,6 +32,10 @@ different plots corresponding to other parts.
 #### Question 3: Logistic Regression by Newton's Method
 ./run.sh 3 <path_of_file_containing_x> <path_of_file_containing_y>
 
+./run.sh 3 logisticX.csv logisticY.csv
+
  
 #### Question 4: Gaussian Discriminant Analysis
 ./run.sh 4 <path_of_file_containing_x> <path_of_file_containing_y>
+
+./run.sh 4 q4x.dat q4y.dat
