@@ -3,7 +3,7 @@ linear, weightedLinear, logistic regression and gaussian discriminant analysis
 
 An executable shell script with the name - run.sh.
 
-##Running run.sh
+## Running run.sh
 
 Depending on the input command line arguments, the shell script should call/invoke the appropriate function/code and 
 generate all the output for the respective question.
@@ -12,7 +12,7 @@ The first input argument is always the question number, second argument - relati
 x(features), third argument - the path of the file containing y and further arguments, if any depends on the question, 
 e.g., for question 1, it is learning rate and time gap.
 
-###Arguments for different questions:
+### Arguments for different questions:
 
 Question 1
 ./run.sh 1 <path_of_file_containing_x> <path_of_file_containing_y> <learning rate> <time_gap_in_seconds>
