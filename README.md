@@ -26,6 +26,8 @@ different plots corresponding to other parts.
 #### Question 2: Weighted Linear Regression
 ./run.sh 2 <path_of_file_containing_x> <path_of_file_containing_y> <tau_>
 
+/run.sh 2 weightedX.csv weightedY.csv 0.8
+
  
 #### Question 3: Logistic Regression by Newton's Method
 ./run.sh 3 <path_of_file_containing_x> <path_of_file_containing_y>
