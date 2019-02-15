@@ -24,7 +24,7 @@ different plots corresponding to other parts.
  
 
 #### Question 2: Weighted Linear Regression
-./run.sh 2 <path_of_file_containing_x> <path_of_file_containing_y> <tau>
+./run.sh 2 <path_of_file_containing_x> <path_of_file_containing_y> <tau_>
 
  
 #### Question 3: Logistic Regression by Newton's Method
