@@ -15,7 +15,7 @@ e.g., for question 1, it is learning rate and time gap.
 ### Arguments for different questions:
 
 #### Question 1
-./run.sh 1 <path_of_file_containing_x> <path_of_file_containing_y> <learning rate> <time_gap_in_seconds>
+./run.sh 1 <path_of_file_containing_x> <path_of_file_containing_y> <learning_rate> <time_gap_in_seconds>
 
 This should run the batch gradient descent with the provided learning rate, print the answer to part (a) and generate 
 different plots corresponding to other parts.
