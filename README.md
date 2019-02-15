@@ -16,6 +16,7 @@ e.g., for question 1, it is learning rate and time gap.
 
 #### Question 1: Linear Regression
 ./run.sh 1 <path_of_file_containing_x> <path_of_file_containing_y> <learning_rate> <time_gap_in_seconds>
+
 ./run.sh 1 linearX.csv linearY.csv 0.2 0.2
 
 This should run the batch gradient descent with the provided learning rate, print the answer to part (a) and generate 
